@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'WebAppDeshana'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5a46cae3a62849c3a430f0f361e1cd8b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a8c12146ba8c419381cedc8eaeb95637 }}
         package: .
